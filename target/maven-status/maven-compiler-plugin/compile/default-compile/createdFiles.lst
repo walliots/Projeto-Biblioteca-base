@@ -7,7 +7,6 @@ projetoVendas\config\InternacionalizacaoConfig.class
 projetoVendas\service\impl\PedidoServiceImpl.class
 projetoVendas\exception\SenhaInvalidaException.class
 projetoVendas\security\jwt\JwtService.class
-projetoVendas\config\CorsFilter.class
 projetoVendas\rest\controller\ProdutosController.class
 projetoVendas\domain\repository\Clientes.class
 projetoVendas\exception\PedidoNaoEncontradoException.class
