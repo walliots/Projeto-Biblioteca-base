@@ -34,8 +34,8 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo(){
         return new ApiInfoBuilder()
-                .title("Vendas API")
-                .description("Api dp projeto vendas")
+                .title("LIBX API")
+                .description("Api do LIBX")
                 .version("1.0")
                 .contact(contact())
                 .build();
