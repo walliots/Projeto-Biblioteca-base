@@ -1,6 +1,6 @@
 FROM openjdk:11-jdk
+MAINTAINER wall
 WORKDIR /app
-COPY ./target/Projeto-Biblioteca-base.jar /application.jar
+COPY target/projeto-spring-boot-1.0-SNAPSHOT.jar /app/app.jar
 EXPOSE 8080
-
-ENTRYPOINT java -jar application.jar
+ENTRYPOINT ["java", "-jar", "app.jar"]
