@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º®°ü
+E
+java:S2201F"/The return value of "orElseThrow" must be used.(…¬Ùœ
+d
+java:S1612F"NReplace this lambda with method reference 'PedidoNaoEncontradoException::new'.(…¬Ùœ

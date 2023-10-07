@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="projeto-spring-boot" />
         <module name="Projeto-Spring-Boot-" />
-        <module name="Projeto-Biblioteca-base" />
       </profile>
     </annotationProcessing>
   </component>
